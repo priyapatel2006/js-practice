@@ -98,7 +98,7 @@
 // function addNumbers(a, b) {
 //     return a + b;
 // }
-// console.log(addNumbers(3,4));
+// console.log(addNumbers(3, 4));
 
 
 // Task 2 – Arrow Function Multiply: Use arrow function to multiply
@@ -108,7 +108,7 @@
 
 // Task 3 – Default Parameter: Function with default value
 
-function sayHello(name = "user") {
-    console.log("Hello " + name);
-}
-console.log(sayHello());
+// function sayHello(name = "user") {
+//     console.log("Hello " + name);
+// }
+// sayHello('priya');
